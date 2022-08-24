@@ -1,3 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
 <bibliothque>
+  <auteurs>
+    <auteur>
+      <name>
+      </name>
+      <publication>
+      </publication>
+      <date>
+      </date>
+      <Number of publications>
+      </Number of publications>
+    </auteur>
+  </auteurs>
   </bibliotheque>
